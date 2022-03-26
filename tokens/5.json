@@ -1,0 +1,10 @@
+{
+          "image": "https://gateway.pinata.cloud/ipfs/QmZvYGUyPjypLF4PgS9Gkwm9qWHH9pMcUiWYiEwixzY5YN/Banned.gif",
+          "name": "BANNED Hash #5",
+          "description": "This token has been permanently banned. Buying and Selling of this token is permanently disabled. Please filter by Not Banned to purchase an unbanned key.",
+          "attributes": [
+            { "trait_type": "Token ID", "value": "5" },
+            { "trait_type": "Banned", "value": "Banned" }
+          ],
+          "external_url": "https://opensea.io/hash"
+        }

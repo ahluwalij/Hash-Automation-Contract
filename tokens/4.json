@@ -1,0 +1,12 @@
+{
+            "image": "https://gateway.pinata.cloud/ipfs/QmZvYGUyPjypLF4PgS9Gkwm9qWHH9pMcUiWYiEwixzY5YN/4.gif",
+            "name": "Hash #4",
+            "description": "This token is set to expire on Fri Apr 15 2022 18:56:08 GMT-0400 (Eastern Daylight Time). Once this date passes, this token's metadata will change making it clear that it is expired and it cannot be bought or sold on Opensea. You can renew your token at https://rinkeby.etherscan.io/address/0x6F993b245A11AAFd537a9374bda18922317C6D8F#writeContract using function #8. If you are having trouble, follow the guide here:RENEW WEBSITE",
+            "attributes": [
+              { "trait_type": "Token ID", "value": "4" },
+              { "trait_type": "Expiration Date", "value": "2022-04-15" },
+              { "trait_type": "Expired", "value": "false" },
+              { "trait_type": "Banned", "value": "Not Banned" }
+            ],
+            "external_url": "https://opensea.io/hash"
+          }

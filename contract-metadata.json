@@ -1,0 +1,8 @@
+{
+    "name": "Hash",
+    "description": "Owning a token from the Hash Automation collection gives you access to the Hash NFT Automation Tool.  Once you own a token, please join our discord to download the tool, access guides, and ask questions.",
+    "image": "https://media.discordapp.net/attachments/787481684966375434/952762593011990558/1.png",
+    "external_link": "https://testnets.opensea.io/hash",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x33EfC1c93874Cf5C5c166e17E405Ce13b52a4842"
+  }

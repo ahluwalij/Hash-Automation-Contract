@@ -1,0 +1,12 @@
+{
+            "image": "https://gateway.pinata.cloud/ipfs/QmZvYGUyPjypLF4PgS9Gkwm9qWHH9pMcUiWYiEwixzY5YN/Expired.gif",
+            "name": "EXPIRED Hash #8",
+            "description": "This token has expired on Wed Dec 31 1969 19:00:00 GMT-0500 (Eastern Standard Time). This token's metadata has been changed to make it clear that it is expired and it cannot be bought or sold on Opensea. If you have just renewed but your token still says that it is expired on Opensea, wait some time for the metadata to be updated. REFRESHING THE METADATA ON OPENSEA HAS NO AFFECT ON THE METADATA ACTUALLY BEING UPDATED. However, you should still have instant access to the bot as long as you have renewed. You can renew your token at https://rinkeby.etherscan.io/address/0x6F993b245A11AAFd537a9374bda18922317C6D8F#writeContract using function #8. If you are having trouble, follow the guide here:RENEW WEBSITE",
+            "attributes": [
+              { "trait_type": "Token ID", "value": "8" },
+              { "trait_type": "Expiration Date", "value": "1970-01-01" },
+              { "trait_type": "Expired", "value": "Expired" },
+              { "trait_type": "Banned", "value": "Not Banned" }
+            ],
+            "external_url": "https://opensea.io/hash"
+          }
